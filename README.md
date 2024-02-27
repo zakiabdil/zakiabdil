@@ -1,4 +1,7 @@
 ### Hi there 👋
+### Nama saya Zaki Abdillah saya dari kelas 1A D4 teknik informatika. saya memiliki keahlian di C basic dan java basic.
+### Saya saat ini sedang mengerjakan proyek 1 tugas 4.2
+### Nomor WA : 0812-2946-1759
 
 <!--
 **zakiabdil/zakiabdil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
