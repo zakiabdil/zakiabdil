@@ -1,14 +1,20 @@
-### Hi there 👋
-Nama saya Zaki Abdillah saya dari kelas 1A D4 teknik informatika. saya memiliki keahlian di C basic dan java basic.
-### Keahlian
-- C Basic
-- Java Basic
-### Proyek
-- Tugas 4.2
-### Hubungi
-- 0812-2946-1759
-- zakiabdilgamer@gmail.com
-- zaki.abdillah.tif423@polban.ac.id
+### Tentang Saya
+Selamat datang di profil GitHub saya! Saya seorang mahasiswa jurusan teknik informatika, saya berdedikasi untuk mengembangkan solusi inovatif dan menerapkan teknik analitik canggih untuk menyelesaikan masalah kompleks dalam dunia nyata.
+### Kepakaran
+- C Basic : Saya menguasai dasar dasar pemrograman C
+- Java Basic : Saya sedikit menguasai dasar dasar pemrograman Java
+### Pendidikan
+- Lulus SMA Islam Teratai Putih Global
+- Sedang menjalankan kuliah di Politeknik Negeri Bandung prodi D4 Teknik Informatika
+### Proyek dan Kontribusi
+Saya telah berkontribusi pada berbagai proyek tugas yang diberikan selama saya berkuliah sampai saat ini. Beberapa highlight termasuk:
+- membuat ppt kolaborasi kelompok
+- membuat file excel statistika
+### Menghubungi Saya
+Untuk kolaborasi atau pertanyaan, jangan ragu untuk menghubungi saya melalui:
+- Nomor : 0812-2946-1759
+- Email : zakiabdilgamer@gmail.com
+Terima kasih telah mengunjungi profil saya. Mari kita kolaborasi untuk membuat perubahan yang berarti melalui kekuatan teknologi!
 
 <!--
 **zakiabdil/zakiabdil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
